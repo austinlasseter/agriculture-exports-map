@@ -9,7 +9,7 @@ import pandas as pd
 
 tabtitle = 'Old McDonald'
 sourceurl = 'https://plot.ly/python/choropleth-maps/'
-githublink = 'https://github.com/austinlasseter/dash-map-usa-agriculture'
+githublink = 'https://github.com/austinlasseter/agriculture-exports-map'
 # here's the list of possible columns to choose from.
 list_of_columns =['total exports', 'beef', 'pork', 'poultry',
        'dairy', 'fruits fresh', 'fruits proc', 'total fruits', 'veggies fresh',
